@@ -1,4 +1,4 @@
-package threadcoreknowledge.stopthreads;
+package java_concurrency_core.threadcoreknowledge.stopthreads;
 
 import threadcoreknowledge.createthreads.ThreadStyle;
 
@@ -23,13 +23,13 @@ public class RightWayStopThreadInProd implements Runnable {
     }
 
     private void throwInMethod() throws InterruptedException {
-            Thread.sleep(2000);
+            Thread.sleep(100);
     }
 
     public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(new RightWayStopThreadInProd());
         thread.start();
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         thread.interrupt();
     }
 }
