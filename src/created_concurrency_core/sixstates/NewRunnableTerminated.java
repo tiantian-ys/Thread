@@ -1,7 +1,7 @@
-package java_concurrency_core.threadcoreknowledge.sixstates;
+package created_concurrency_core.sixstates;
 
 /**
- * 描述：     展示线程的NEW、RUNNABLE、Terminated状态。即使是正在运行，也是Runnable状态，而不是Running。
+ * 描述：     展示线程的 NEW、RUNNABLE、Terminated状态。即使是正在运行，也是Runnable状态，而不是Running。
  */
 public class NewRunnableTerminated implements Runnable {
 

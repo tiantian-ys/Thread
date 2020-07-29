@@ -1,4 +1,4 @@
-package java_concurrency_core.threadcoreknowledge.stopthreads.volatiledemo;
+package created_concurrency_core.stopthreads.volatiledemo;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
