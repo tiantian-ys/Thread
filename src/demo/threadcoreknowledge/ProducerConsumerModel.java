@@ -26,11 +26,11 @@ class EventStorage {
       if(warehouse.size() == 0){
                 notify();
       }
-    //  System.out.println("生产者执行添加操作，目前容器容量：" + warehouse.fill);
-      System.out.println("消费者执行消费"+warehouse.size()+"，目前容器容量：" + warehouse.size());
 
+      System.out.println("消费者执行消费"+warehouse.poll()+"，目前容器容量：" + warehouse.size());
 
   }
+
 
   /** 容器存操作 */
   public synchronized void push() {
