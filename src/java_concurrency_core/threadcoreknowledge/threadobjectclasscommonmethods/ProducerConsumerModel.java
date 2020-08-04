@@ -62,6 +62,7 @@ class EventStorage {
         storage = new LinkedList<>();
     }
 
+
     public synchronized void put() {
         while (storage.size() == maxSize) {
             try {
@@ -74,6 +75,8 @@ class EventStorage {
         System.out.println("仓库里有了" + storage.size() + "个产品。");
         notify();
     }
+
+
 
     public synchronized void take() {
         while (storage.size() == 0) {
