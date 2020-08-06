@@ -7,8 +7,8 @@ public class WaitNotifyPrintOddEveWait {
   private static Object object = new Object();
 
   public static void main(String[] args) {
-    new Thread(new print(),"偶").start();
-    new Thread(new print(),"奇").start();
+    new Thread(new print(), "偶").start();
+    new Thread(new print(), "奇").start();
   }
 
   static class print implements Runnable {
@@ -29,6 +29,8 @@ public class WaitNotifyPrintOddEveWait {
           }
         }
       }
+
+
     }
   }
 }

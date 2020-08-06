@@ -1,4 +1,4 @@
-package background;
+package java_concurrency_core.background;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
@@ -54,6 +54,7 @@ public class MultiThreadsError implements Runnable {
                 e.printStackTrace();
             }
             realIndex.incrementAndGet();
+
             synchronized (instance) {
                 if (marked[index] && marked[index - 1]) {
                     System.out.println("发生错误" + index);
@@ -61,6 +62,7 @@ public class MultiThreadsError implements Runnable {
                 }
                 marked[index] = true;
             }
+
         }
     }
 }

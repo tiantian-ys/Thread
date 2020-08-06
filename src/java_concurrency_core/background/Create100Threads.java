@@ -4,6 +4,7 @@ package java_concurrency_core.background;
  */
 public class Create100Threads {
     public static void main(String[] args) {
+
         for (int i = 0; i < 200; i++) {
             new Thread(new Runnable() {
                 @Override
@@ -16,6 +17,7 @@ public class Create100Threads {
                 }
             }).start();
         }
+
     }
 
 }
