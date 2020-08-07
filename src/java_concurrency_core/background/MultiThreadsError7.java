@@ -1,12 +1,14 @@
 package background;
 
 
+import java_concurrency_core.background.MultiThreadsError5;
+
 /**
  * 描述：     用工厂模式修复刚才的初始化问题
  */
 public class MultiThreadsError7 {
 
-    int count;
+/*    int count;
     private EventListener listener;
 
     private MultiThreadsError7(MySource source) {
@@ -66,10 +68,10 @@ public class MultiThreadsError7 {
 
     interface EventListener {
 
-        void onEvent(MultiThreadsError5.Event e);
+        void onEvent(Event e);
     }
 
     interface Event {
 
-    }
+    }*/
 }

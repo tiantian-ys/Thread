@@ -1,4 +1,4 @@
-package background;
+package java_concurrency_core.background;
 
 /**
  * 描述：     观察者模式
@@ -7,7 +7,10 @@ public class MultiThreadsError5 {
 
     int count;
 
+
+
     public MultiThreadsError5(MySource source) {
+
         source.registerListener(new EventListener() {
             @Override
             public void onEvent(Event e) {
@@ -15,11 +18,14 @@ public class MultiThreadsError5 {
             }
 
         });
+
         for (int i = 0; i < 10000; i++) {
             System.out.print(i);
         }
         count = 100;
     }
+
+
 
     public static void main(String[] args) {
         MySource mySource = new MySource();
@@ -58,7 +64,7 @@ public class MultiThreadsError5 {
 
     interface EventListener {
 
-        void onEvent(Event e);
+            void onEvent(Event e);
     }
 
     interface Event {
