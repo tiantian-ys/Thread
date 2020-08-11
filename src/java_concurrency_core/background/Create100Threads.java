@@ -5,7 +5,7 @@ package java_concurrency_core.background;
 public class Create100Threads {
     public static void main(String[] args) {
 
-        for (int i = 0; i < 200; i++) {
+        for (int i = 0; i < 6000; i++) {
             new Thread(new Runnable() {
                 @Override
                 public void run() {

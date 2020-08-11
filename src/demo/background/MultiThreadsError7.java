@@ -71,7 +71,7 @@ public class MultiThreadsError7 {
   }
 
   interface EventListener {
-
+  
     void onEvent(Event e);
   }
 

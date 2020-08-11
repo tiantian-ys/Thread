@@ -1,4 +1,4 @@
-package deadlock;
+package java_concurrency_core.deadlock;
 
 /**
  * 描述：     转账时候遇到死锁，一旦打开注释，便会发生死锁

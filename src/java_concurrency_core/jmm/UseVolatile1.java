@@ -1,7 +1,7 @@
-package jmm;
+package java_concurrency_core.jmm;
 
 import java.util.concurrent.atomic.AtomicInteger;
-import singleton.Singleton8;
+import java_concurrency_core.singleton.Singleton8;
 
 /**
  * 描述：     volatile适用的情况1

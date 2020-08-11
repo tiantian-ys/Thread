@@ -1,4 +1,4 @@
-package deadlock;
+package java_concurrency_core.deadlock;
 
 /**
  * 描述：     必定发生死锁的情况

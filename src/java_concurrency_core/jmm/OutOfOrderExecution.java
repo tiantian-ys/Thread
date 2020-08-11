@@ -1,4 +1,4 @@
-package jmm;
+package java_concurrency_core.jmm;
 
 import java.util.concurrent.CountDownLatch;
 
