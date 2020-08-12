@@ -1,6 +1,6 @@
 package teacher.src.imooccache;
 
-import imooccache.computable.ExpensiveFunction;
+import teacher.src.imooccache.computable.ExpensiveFunction;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.CountDownLatch;

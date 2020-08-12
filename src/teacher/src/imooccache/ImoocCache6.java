@@ -1,7 +1,7 @@
 package teacher.src.imooccache;
 
-import imooccache.computable.Computable;
-import imooccache.computable.ExpensiveFunction;
+import teacher.src.imooccache.computable.Computable;
+import teacher.src.imooccache.computable.ExpensiveFunction;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 

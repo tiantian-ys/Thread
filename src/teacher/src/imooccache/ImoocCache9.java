@@ -1,8 +1,8 @@
 package teacher.src.imooccache;
 
-import imooccache.computable.Computable;
-import imooccache.computable.ExpensiveFunction;
-import imooccache.computable.MayFail;
+import teacher.src.imooccache.computable.Computable;
+import teacher.src.imooccache.computable.ExpensiveFunction;
+import teacher.src.imooccache.computable.MayFail;
 import java.util.Map;
 import java.util.concurrent.Callable;
 import java.util.concurrent.CancellationException;

@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb5a6517-50cb-49bb-a24c-2514f57b2393" name="Default Changelist" comment="" />
+    <list default="true" id="cb5a6517-50cb-49bb-a24c-2514f57b2393" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/CachedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/FixedThreadPoolOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/PauseableThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/ScheduledThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/SingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/threadpool/ThreadPoolExecutor_create.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/imooccache/ImoocCache9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacher/src/threadpool/FixedThreadPoolOOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacher/src/threadpool/FixedThreadPoolOOM.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java-Runable-JUC" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1fyk9Zoh0BLpO6wUtL5bvSscGg1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,17 +55,105 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/demo/threadpool" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.threadpool" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\idea-2\Java-Runable-JUC\src\demo\threadpool" />
       <recent name="G:\idea-2\Java-Runable-JUC" />
       <recent name="G:\idea-2\Java-Runable-JUC\资料" />
       <recent name="G:\idea-2\Java-Runable-JUC\src\teacher" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.PauseableThreadPool">
+    <configuration name="CachedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.threadpool.CachedThreadPool" />
+      <module name="Java-Runable-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PauseableThreadPool (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teacher.src.threadpool.PauseableThreadPool" />
+      <module name="Java-Runable-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teacher.src.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PauseableThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.threadpool.PauseableThreadPool" />
+      <module name="Java-Runable-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreadPoolTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.threadpool.ScheduledThreadPoolTest" />
+      <module name="Java-Runable-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teacher.src.threadpool.ScheduledThreadPoolTest" />
+      <module name="Java-Runable-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teacher.src.threadpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PauseableThreadPool" />
+        <item itemvalue="Application.PauseableThreadPool (1)" />
+        <item itemvalue="Application.ScheduledThreadPoolTest (1)" />
+        <item itemvalue="Application.ScheduledThreadPoolTest" />
+        <item itemvalue="Application.CachedThreadPool" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,11 +177,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597197568063</updated>
-      <workItem from="1597197569802" duration="167000" />
+      <workItem from="1597197569802" duration="12922000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="250" key="#com.intellij.ide.util.MemberChooser" timestamp="1597221209590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597221209590" />
+    <state width="1248" height="249" key="GridCell.Tab.0.bottom" timestamp="1597222917907">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1248" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597222917907" />
+    <state width="1248" height="249" key="GridCell.Tab.0.center" timestamp="1597222917907">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1248" height="249" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597222917907" />
+    <state width="1248" height="249" key="GridCell.Tab.0.left" timestamp="1597222917907">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1248" height="249" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597222917907" />
+    <state width="1248" height="249" key="GridCell.Tab.0.right" timestamp="1597222917907">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1248" height="249" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597222917907" />
+    <state x="649" y="273" width="1271" height="451" key="dock-window-1" timestamp="1597221688993">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="649" y="273" width="1271" height="451" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1597221688993" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1597216438768">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597216438768" />
+    <state x="665" y="426" width="672" height="678" key="search.everywhere.popup" timestamp="1597222893655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="665" y="426" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597222893655" />
   </component>
 </project>
