@@ -7,8 +7,8 @@ public class ThreadLocalNormalUsage06 {
 
     public static void main(String[] args) {
         new Service1().process("");
-
     }
+
 }
 
 class Service1 {
